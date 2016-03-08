@@ -7499,7 +7499,7 @@ body.navbar-tray-open.navbar-vertical.navbar-fixed {
   color: #000;
 }
 /* Added to make the ul li in the footer as we have in the Build Kit, 
-				We can't add any class in ul so we have to override some css */
+	We can't add any class in ul so we have to override some css */
 .jmd-footer .jmd-container .jmd-footer-grid-col-two ul.menu {
   float: right;
   margin-top: 0;
