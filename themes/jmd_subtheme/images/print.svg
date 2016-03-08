@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" viewBox="0 0 20 19" version="1.1">
+  <title>
+    Artboard 1
+  </title>
+  <desc>
+    Created with Sketch.
+  </desc>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+    <g id="Artboard-1" sketch:type="MSArtboardGroup" fill="#0069A4">
+      <g id="Print" sketch:type="MSLayerGroup">
+        <path d="M20 12.8C19.7 13.8 19.1 14.6 18.1 14.9 17.5 15 16.9 15 16.2 15L16.2 11.3 3.7 11.3 3.7 14.9C2.1 15.2 0.7 14.8 0.1 13.1 0 12.8 0 12.5 0 12.3L0 6.4C0 4.9 1.2 3.7 2.7 3.7L3.7 3.7 3.7 5.6 3.7 7.4 16.2 7.4 16.2 3.7C17.9 3.5 19.4 3.8 20 5.9L20 12.8 20 12.8ZM15 18.8L15 12.5 5 12.5 5 18.8 15 18.8 15 18.8ZM13.7 14.9L6.2 14.9 6.2 13.7 13.7 13.7 13.7 14.9 13.7 14.9ZM6.2 16.3L13.7 16.3 13.7 17.5 6.2 17.5C6.2 17 6.2 16.7 6.2 16.3L6.2 16.3ZM15 0L5 0 5 6.2 15 6.2 15 0 15 0Z" id="Shape" sketch:type="MSShapeGroup"/>
+      </g>
+    </g>
+  </g>
+</svg>

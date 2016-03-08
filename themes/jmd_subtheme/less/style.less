@@ -1,0 +1,41 @@
+// Bootstrap library.
+@import 'bootstrap';
+
+// Base-theme overrides.
+@import 'overrides';
+
+
+/* Added to adjust the Search Title and input Box color changes */
+.jmd-masthead{
+	.jmd-search-container{
+		.jmd-primary-title{ margin-top:0; }
+		.jmd-search-controls{ 
+			input[type="text"] { color:#000; }
+		}
+	}
+}
+
+
+				/* Added to make the ul li in the footer as we have in the Build Kit, 
+				We can't add any class in ul so we have to override some css */
+.jmd-footer{
+	.jmd-container{
+		.jmd-footer-grid-col-two{
+			ul.menu{ float: right; margin-top: 0; padding-left: 1.71429em; margin:0; 
+				li{ display:list-item; 
+					a{ display:inline; padding:0; 
+						&:hover{ background: none; text-decoration: underline!important;  color: #fff; }
+					}
+				}
+				@media (min-width:960px){
+					li{ display:inline-block; 
+						a{ padding:0; 
+						}
+					}
+				}
+
+			}
+		}
+	}
+}
+	
